@@ -18,6 +18,8 @@
     "https://secure.flickr.com/",
     "webRequest",
     "webRequestBlocking",
-    "*://*.hulu.com/*"
+    "*://*.hulu.com/*",
+    "*://*.netflix.com/*",
+    "tabs"
   ]
 }
