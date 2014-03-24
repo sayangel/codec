@@ -20,6 +20,7 @@
     "webRequestBlocking",
     "*://*.hulu.com/*",
     "*://*.netflix.com/*",
-    "tabs"
+    "tabs",
+    "*://*.jquery.com/*"
   ]
 }
